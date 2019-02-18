@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/emcdaniel/code/ifttt'
+let g:netrw_dirhist_2='/Users/emcdaniel/code/ifttt/src'
+let g:netrw_dirhist_3='/Users/emcdaniel/code/ifttt'
+let g:netrw_dirhist_4='/Users/emcdaniel/code/ifttt/src'
+let g:netrw_dirhist_5='/Users/emcdaniel/code/ifttt/src/main'
+let g:netrw_dirhist_6='/Users/emcdaniel/code/ifttt/src/main/scala'
+let g:netrw_dirhist_7='/Users/emcdaniel/code/ifttt/src/main/scala/com'
+let g:netrw_dirhist_8='/Users/emcdaniel/code/ifttt/src/main/scala/com/ifttt'
+let g:netrw_dirhist_9='/Users/emcdaniel'

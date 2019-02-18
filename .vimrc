@@ -1,0 +1,11 @@
+colorscheme solarized
+set background=dark
+syntax enable
+set tabstop=4
+set expandtab
+set number
+set cursorline
+set wildmenu
+set showmatch
+set incsearch
+set hlsearch
